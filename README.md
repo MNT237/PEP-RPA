@@ -23,3 +23,19 @@ DAY 2:
 *If Else.xaml: Binary branching (True/False paths).  
 *Else if.xaml: Multi-condition sequential evaluation.  
 *employee validation.xaml: Applied conditional logic for validating employee records.  
+
+
+
+DAY 3: 
+
+->This project contains three UiPath workflows covering arrays, loops, and lists.
+
+*Array.xaml – Array operations such as largest number, average, and sorting.
+*Looping_Statements.xaml – While/For Each loops, summation, and countdown.
+*List.xaml – List operations including search, sum, and remove/clear operations.
+
+<Requirements>
+
+UiPath Studio
+VB expressions enabled
+Open the .xaml files in UiPath Studio and run the workflows as required.
