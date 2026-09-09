@@ -36,7 +36,7 @@ DAY 3:
 
 
 
-<Requirements>
+Requirements
 
 UiPath Studio   
 VB expressions enabled    
