@@ -28,11 +28,18 @@ DAY 2:
 
 DAY 3: 
 
-->This project contains three UiPath workflows covering arrays, loops, and lists.
+->Arrays, Loops, and Lists.
 
 *Array.xaml – Array operations such as largest number, average, and sorting.      
 *Looping_Statements.xaml – While/For Each loops, summation, and countdown.   
-*List.xaml – List operations including search, sum, and remove/clear operations.  
+*List.xaml – List operations including search, sum, and remove/clear operations. 
+
+
+DAY 4:
+
+->String Manipulation
+
+*Mainpulation.xaml - All String Manipulations is Done.
 
 
 
