@@ -1022,19 +1022,8 @@ Machine-learning predictions should be validated against real machine data and d
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
-<p align="center">
+
 🚀 Predict Failures. Automate Maintenance. Reduce Downtime.
 
-<strong>AI + Machine Learning + RPA</strong>
-
-</p> ```
 
 
-
-
-
-Requirements
-
-UiPath Studio   
-VB expressions enabled    
-Open the .xaml files in UiPath Studio and run the workflows as required.  
