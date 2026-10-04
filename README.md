@@ -85,6 +85,14 @@ PROJECT
 
 ---
 
+
+## 📦 Complete Project Download
+
+The complete **Predictive Maintenance PEP RPA Project** is available in the
+GitHub Release.
+
+👉 **[📥 Download Complete Project — v1.0.0](../../releases/latest)**
+
 ## 📌 Overview
 
 The **Predictive Maintenance Automation System** is an AI-powered industrial maintenance solution that combines **Machine Learning, FastAPI, MySQL, and UiPath RPA** to predict machine health and automatically initiate appropriate maintenance actions.
