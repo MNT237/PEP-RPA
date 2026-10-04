@@ -68,18 +68,7 @@ Exception Handling
 <hr>
 <h2 align="center">🚀 PROJECT</h2>
 <h1 align="center">🚀 Predictive Maintenance Automation System</h1>
-<p>&lt;p align="center"&gt;</p>
-<p>  &lt;img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&amp;logo=python" /&gt;<br>
-  &lt;img src="https://img.shields.io/badge/FastAPI-API-green?style=for-the-badge&amp;logo=fastapi" /&gt;<br>
-  &lt;img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge&amp;logo=scikit-learn" /&gt;<br>
-  &lt;img src="https://img.shields.io/badge/XGBoost-ML-red?style=for-the-badge" /&gt;<br>
-  &lt;img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&amp;logo=mysql" /&gt;<br>
-  &lt;img src="https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&amp;logo=uipath" /&gt;</p>
-<p>&lt;/p&gt;</p>
-<p>&lt;p align="center"&gt;</p>
-<p>  &lt;strong&gt;AI-Powered Predictive Maintenance + Intelligent RPA Automation&lt;/strong&gt;</p>
-<p>&lt;/p&gt;</p>
-<hr>
+
 <h2>📦 Complete Project Download</h2>
 <p>The complete <strong>Predictive Maintenance PEP RPA Project</strong> is available in the<br>
 GitHub Release.</p>
