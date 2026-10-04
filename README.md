@@ -1,4 +1,4 @@
-# 🤖 UiPath Training & Automation Workflows
+🤖 UiPath Training & Automation Workflows
 
 <p align="center">
 
@@ -13,36 +13,42 @@
   <strong>📚 A structured UiPath Studio training repository covering RPA fundamentals, control flow, data handling, automation, and exception handling.</strong>
 </p>
 
----
+📖 About This Repository
 
-# 📖 About This Repository
-
-This repository contains a collection of **UiPath Studio workflows** developed during a structured **Day 1–Day 10 UiPath training program**.
+This repository contains a collection of UiPath Studio workflows developed during a structured Day 1–Day 10 UiPath training program.
 
 The workflows progress from basic UiPath concepts to practical automation scenarios, covering:
 
-- 🧩 UiPath fundamentals
-- ➕ Arithmetic operations
-- 🔄 Workflow-to-workflow communication
-- 📦 Arguments and data passing
-- 🔀 Conditional statements
-- 🔁 Loops and iterations
-- 📊 Arrays and Lists
-- 🔤 String manipulation
-- 📧 Email automation
-- 🌐 Browser automation
-- 📑 Excel automation
-- 🛡️ Exception handling
+🧩 UiPath fundamentals
+
+➕ Arithmetic operations
+
+🔄 Workflow-to-workflow communication
+
+📦 Arguments and data passing
+
+🔀 Conditional statements
+
+🔁 Loops and iterations
+
+📊 Arrays and Lists
+
+🔤 String manipulation
+
+📧 Email automation
+
+🌐 Browser automation
+
+📑 Excel automation
+
+🛡️ Exception handling
 
 The repository is organized progressively so that each day's workflows build upon the concepts introduced earlier.
 
----
-
-# 🎯 Training Objectives
+🎯 Training Objectives
 
 The main objectives of this training are to understand and practice:
 
-```text
 UiPath Studio
       ↓
 Variables & Data
@@ -59,84 +65,58 @@ Automation
       ↓
 Exception Handling
 
-
-
-
-PROJECT
-
-# 🚀 Predictive Maintenance Automation System
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/FastAPI-API-green?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-ML-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&logo=uipath" />
-
-</p>
-
-<p align="center">
-
-  <strong>AI-Powered Predictive Maintenance + Intelligent RPA Automation</strong>
-
-</p>
-
----
-
-
-## 📦 Complete Project Download
-
-The complete **Predictive Maintenance PEP RPA Project** is available in the
-GitHub Release.
-
-👉 **[📥 Download Complete Project — v1.0.0](../../releases/latest)**
-
-## 📌 Overview
-
-The **Predictive Maintenance Automation System** is an AI-powered industrial maintenance solution that combines **Machine Learning, FastAPI, MySQL, and UiPath RPA** to predict machine health and automatically initiate appropriate maintenance actions.
-
-Traditional maintenance approaches often rely on:
-
-- Scheduled maintenance
-- Manual inspection
-- Reactive repairs
-- Human monitoring
-- Static maintenance rules
-
-These approaches can result in unnecessary maintenance, unexpected machine failures, downtime, and increased operational costs.
-
-This project introduces a smarter approach.
-
-The system analyzes machine operating conditions and sensor readings to estimate **Remaining Useful Life (RUL)**, detect anomalies, determine machine risk, store prediction results, and automatically execute maintenance workflows using **UiPath RPA**.
-
----
-
-# 🎯 Project Objective
-
-The primary objective is to build an automated predictive maintenance pipeline that can:
-
-1. Collect machine sensor data.
-2. Process and prepare the input data.
-3. Predict the machine's Remaining Useful Life.
-4. Detect abnormal machine behavior.
-5. Classify machine risk.
-6. Store prediction results in MySQL.
-7. Automatically trigger appropriate maintenance workflows.
-8. Prevent duplicate maintenance tickets.
-9. Check spare-part availability.
-10. Send maintenance notifications.
-11. Generate an updated prediction CSV without modifying the original dataset.
-
----
-
-# 🧠 Core Idea
-
-The system follows a simple concept:
-
-```text
-Machine Sensor Data
+<hr>
+<h2 align="center">🚀 PROJECT</h2>
+<h1 align="center">🚀 Predictive Maintenance Automation System</h1>
+<p>&lt;p align="center"&gt;</p>
+<p>  &lt;img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&amp;logo=python" /&gt;<br>
+  &lt;img src="https://img.shields.io/badge/FastAPI-API-green?style=for-the-badge&amp;logo=fastapi" /&gt;<br>
+  &lt;img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge&amp;logo=scikit-learn" /&gt;<br>
+  &lt;img src="https://img.shields.io/badge/XGBoost-ML-red?style=for-the-badge" /&gt;<br>
+  &lt;img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&amp;logo=mysql" /&gt;<br>
+  &lt;img src="https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&amp;logo=uipath" /&gt;</p>
+<p>&lt;/p&gt;</p>
+<p>&lt;p align="center"&gt;</p>
+<p>  &lt;strong&gt;AI-Powered Predictive Maintenance + Intelligent RPA Automation&lt;/strong&gt;</p>
+<p>&lt;/p&gt;</p>
+<hr>
+<h2>📦 Complete Project Download</h2>
+<p>The complete <strong>Predictive Maintenance PEP RPA Project</strong> is available in the<br>
+GitHub Release.</p>
+<p>👉 <strong><a href="../../releases/latest">📥 Download Complete Project — v1.0.0</a></strong></p>
+<h2>📌 Overview</h2>
+<p>The <strong>Predictive Maintenance Automation System</strong> is an AI-powered industrial maintenance solution that combines <strong>Machine Learning, FastAPI, MySQL, and UiPath RPA</strong> to predict machine health and automatically initiate appropriate maintenance actions.</p>
+<p>Traditional maintenance approaches often rely on:</p>
+<ul>
+<li>Scheduled maintenance</li>
+<li>Manual inspection</li>
+<li>Reactive repairs</li>
+<li>Human monitoring</li>
+<li>Static maintenance rules</li>
+</ul>
+<p>These approaches can result in unnecessary maintenance, unexpected machine failures, downtime, and increased operational costs.</p>
+<p>This project introduces a smarter approach.</p>
+<p>The system analyzes machine operating conditions and sensor readings to estimate <strong>Remaining Useful Life (RUL)</strong>, detect anomalies, determine machine risk, store prediction results, and automatically execute maintenance workflows using <strong>UiPath RPA</strong>.</p>
+<hr>
+<h1>🎯 Project Objective</h1>
+<p>The primary objective is to build an automated predictive maintenance pipeline that can:</p>
+<ol>
+<li>Collect machine sensor data.</li>
+<li>Process and prepare the input data.</li>
+<li>Predict the machine's Remaining Useful Life.</li>
+<li>Detect abnormal machine behavior.</li>
+<li>Classify machine risk.</li>
+<li>Store prediction results in MySQL.</li>
+<li>Automatically trigger appropriate maintenance workflows.</li>
+<li>Prevent duplicate maintenance tickets.</li>
+<li>Check spare-part availability.</li>
+<li>Send maintenance notifications.</li>
+<li>Generate an updated prediction CSV without modifying the original dataset.</li>
+</ol>
+<hr>
+<h1>🧠 Core Idea</h1>
+<p>The system follows a simple concept:</p>
+<pre><code class="language-text">Machine Sensor Data
         ↓
       FastAPI
         ↓
@@ -191,8 +171,8 @@ A very low RUL indicates that the machine requires immediate attention.
 The system converts the prediction into three operational risk levels.
 
 Risk	RUL Condition	Automation
-🟢 NORMAL	RUL > 200	Log only
-🟡 WARNING	50 < RUL ≤ 200	Send warning email
+🟢 NORMAL	RUL &gt; 200	Log only
+🟡 WARNING	50 &lt; RUL ≤ 200	Send warning email
 🔴 CRITICAL	RUL ≤ 50	Maintenance ticket + spare-part check + urgent email
 
 An anomaly can also escalate the machine's risk level.
@@ -680,11 +660,11 @@ Step 5 — Risk Engine
 
 The predicted RUL and anomaly information are converted into an operational risk.
 
-RUL > 200
+RUL &gt; 200
       ↓
    NORMAL
 
-50 < RUL ≤ 200
+50 &lt; RUL ≤ 200
       ↓
    WARNING
 
@@ -1031,7 +1011,4 @@ Machine-learning predictions should be validated against real machine data and d
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 
-🚀 Predict Failures. Automate Maintenance. Reduce Downtime.
-
-
-
+🚀 Predict Failures. Automate Maintenance. Reduce Downtime.</code></pre>
