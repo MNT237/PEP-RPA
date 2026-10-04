@@ -1,4 +1,4 @@
-🤖 UiPath Training & Automation Workflows
+<h1 align="center">🤖 UiPath Training & Automation Workflows</h1>
 
 <p align="center">
 
